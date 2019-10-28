@@ -21,14 +21,9 @@ Here is an example to use test image
 
     python lp_detect_image.py ./test.jpg
 ### Run detection from USB Camera
-Here is an example to use camera ID = 0
+You can see how this license plate detection works with your USB camera (CameraID = 0)
 
     python lp_detect_cam.py  
-if you want change camera ID
-
-    ./lp_detect_cam.py
-    video_capture = cv2.VideoCapture(**NUM**)
-
 ## License
 Usage of the code and model by yeephycho is under the license of Apache 2.0.
 
