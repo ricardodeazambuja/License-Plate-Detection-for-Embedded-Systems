@@ -3,7 +3,9 @@ MobileNetV2-SSDlite based KOR license plate detector with pretrained model provi
 
 ## Dependencies
 Python
+
 Tensorflow == 1.14.0
+
 OpenCV-Python
 
 ## Results
@@ -12,7 +14,7 @@ OpenCV-Python
 
 ## Usage
 ### Run detection from image
-'''python lp_detect_image.py (imagefile)'''
+    python lp_detect_image.py (imagefile)
 ### Run detection from USB Camera
 Here is an example to use camera ID = 0
   python lp_detect_cam.py  
