@@ -25,6 +25,6 @@ You can see how this license plate detection works with your USB camera (CameraI
 
     python lp_detect_cam.py  
 ## License
-Usage of the code and model by yeephycho is under the license of Apache 2.0.
+Usage of the code and model is under the license of Apache 2.0.
 
 The code is based on GOOGLE tensorflow object detection api. Please refer to the license of tensorflow.
